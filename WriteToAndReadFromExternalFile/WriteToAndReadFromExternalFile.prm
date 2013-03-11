@@ -1,0 +1,5 @@
+[parameter:pVuser]
+Format="%s"
+Type="Userid"
+OriginalValue=""
+ParamName="pVuser"
